@@ -1,0 +1,19 @@
+.blog-post-title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.blog-post-subtitle {
+    color: red;
+}
+
+#blue{
+    color: blue;
+    font-weight: bold;
+}
+
+.blog-post-header-div {
+    background-color: blue;
+    color: white;
+}
+.blog-post-content {
+    background-color: black;
+}
